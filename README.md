@@ -1,1 +1,1 @@
-Fırat University Algorithm 2 Repository.
+Firat University Algorithm 2 Repository.
